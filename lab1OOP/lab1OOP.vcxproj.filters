@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemy">
+      <UniqueIdentifier>{873ae7b6-637a-4b21-9d99-fde760583c50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Enemy">
+      <UniqueIdentifier>{e489b54b-7115-4f70-a164-4d17e55ade62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\EnemyFactories">
+      <UniqueIdentifier>{e64e57e5-6dbb-436a-bf2b-0e089974f3a5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Map\Map.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Application.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Tilemap.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\WindowsHelper.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Rng.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility\Utility.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\NuclearGenerator.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\NuclearWalker.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Entity.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Hero.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\ListEntity.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Map\CollisionMap.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Slime.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Spider.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Ghost.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Skeleton.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\ArahnidNestEnemyFactory.cpp">
+      <Filter>Исходные файлы\EnemyFactories</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\IEnemyFactory.cpp">
+      <Filter>Исходные файлы\EnemyFactories</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\SlimeRanchEnemyFactory.cpp">
+      <Filter>Исходные файлы\EnemyFactories</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\СemeteryEnemyFactory.cpp">
+      <Filter>Исходные файлы\EnemyFactories</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\Factories\VampireMansionEnemyFactory.cpp">
+      <Filter>Исходные файлы\EnemyFactories</Filter>
+    </ClCompile>
+    <ClCompile Include="Application\Enemy\Bat.cpp">
+      <Filter>Исходные файлы\Enemy</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Map\Map.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Map\Tile.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Application.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Tilemap.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\WindowsHelper.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Rng.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility\Utility.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\NuclearGenerator.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\NuclearWalker.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Entity.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Hero.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\ListEntity.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Map\CollisionMap.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Ghost.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Spider.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Slime.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Skeleton.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Application\Enemy\Bat.hpp">
+      <Filter>Файлы заголовков\Enemy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

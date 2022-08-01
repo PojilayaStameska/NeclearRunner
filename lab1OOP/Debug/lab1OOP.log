@@ -1,0 +1,50 @@
+﻿  Application.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Application\Tilemap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Enemy.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Bat.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Slime.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Ghost.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Skeleton.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Spider.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Entity.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Hero.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  ListEntity.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Tilemap.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Application\Tilemap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  WindowsHelper.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Application\WindowsHelper.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Window/WindowHandle.hpp: No such file or directory,
+  ArahnidNestEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  IEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  SlimeRanchEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  VampireMansionEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  СemeteryEnemyFactory.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  NuclearGenerator.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Generator\NuclearWalker.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  NuclearWalker.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Generator\NuclearWalker.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Main.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Application\Tilemap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Создание кода...
+  Компиляция...
+  CollisionMap.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Map.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Map\Map.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Rng.cpp
+  Utility.cpp
+C:\Users\Lenovo\Desktop\data\код\cpp\lab2OOP\lab1OOP\Utility\Utility.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Создание кода...

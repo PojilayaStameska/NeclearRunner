@@ -1,0 +1,83 @@
+﻿  Application.cpp
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Application.cpp(24,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Application.cpp(24,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Enemy.cpp
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Enemy.cpp(14,26): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Enemy.cpp(15,26): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Slime.cpp
+  Ghost.cpp
+  Skeleton.cpp
+  Spider.cpp
+  Entity.cpp
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Entity.cpp(62,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Entity.cpp(64,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Hero.cpp
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(32,26): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(33,26): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(34,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(34,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(34,128): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(34,110): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(35,62): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(35,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(35,126): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(35,108): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(37,27): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Application\Hero.cpp(38,27): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  ListEntity.cpp
+  Tilemap.cpp
+  WindowsHelper.cpp
+  CollisionMap.cpp
+  NuclearGenerator.cpp
+  NuclearWalker.cpp
+  Main.cpp
+  Map.cpp
+  Rng.cpp
+  Utility.cpp
+  Создание кода
+C:\Users\Lenovo\Desktop\cpp\lab1OOP\lab1OOP\Generator\NuclearGenerator.cpp(52): warning C4715: NuclearGenerator::deleteWalker: значение возвращается не при всех путях выполнения
+  285 of 347 functions (82.1%) were compiled, the rest were copied from previous compilation.
+    91 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab1OOP.vcxproj -> C:\Users\Lenovo\Desktop\cpp\lab1OOP\Release\lab1OOP.exe
